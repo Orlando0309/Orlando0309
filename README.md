@@ -2,6 +2,8 @@
 
 I'm a passionate **FullStack JavaScript Developer** with expertise in building scalable web applications using modern technologies. My journey in web development has been driven by a love for learning and solving complex problems. I thrive on creating efficient, high-performing solutions that deliver value to users.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Orlando0309&color=blue)
+
 ## 🚀 Tech Stack
 
 ### **Languages**
@@ -33,6 +35,9 @@ I'm a passionate **FullStack JavaScript Developer** with expertise in building s
 
 ![Orlando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orlando0309&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando0309&layout=compact&theme=radical)
+
+### **Streak**
+[![GitHub Streak](https://streak-stats.demolab.com?user=Orlando0309&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🌐 Connect with Me
 
