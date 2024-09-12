@@ -41,9 +41,9 @@ I'm a passionate **FullStack JavaScript Developer** with expertise in building s
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/orlando-andrianay/](https://www.linkedin.com/in/miarintsoa-orlando-andrianay-621553252/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miarintsoa-orlando-andrianay-621553252/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Orlando0309)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]([https://orlando-andrianay.vercel.app/](https://andrianayorllando.wixstudio.io/portfolio))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://andrianayorllando.wixstudio.io/portfolio)
 
 ## ✨ Fun Fact
 
