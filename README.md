@@ -41,14 +41,12 @@ I'm a passionate **FullStack JavaScript Developer** with expertise in building s
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlando-andrianay/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/OrlandoAndrianay)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/orlando-andrianay/](https://www.linkedin.com/in/miarintsoa-orlando-andrianay-621553252/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Orlando0309)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://orlando-andrianay.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]([https://orlando-andrianay.vercel.app/](https://andrianayorllando.wixstudio.io/portfolio))
 
 ## ✨ Fun Fact
 
-- I’m currently exploring **Figma and Webflow** to create visually stunning websites.
-- I share my thoughts on web development, freelancing, and tech trends on [YouTube](https://www.youtube.com/OrlandoAndrianay).
+I’m currently exploring **Figma and Webflow** to create visually stunning websites.
 
 Feel free to reach out if you want to collaborate on an exciting project or just chat about tech!
