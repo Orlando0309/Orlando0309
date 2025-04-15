@@ -26,7 +26,6 @@ I'm a passionate **Backend Developer** with expertise in building scalable web a
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 
-
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -39,10 +38,14 @@ I'm a passionate **Backend Developer** with expertise in building scalable web a
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## 📈 GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando0309&layout=compact&theme=radical)
 
-### **Streak**
-[![GitHub Streak](https://streak-stats.demolab.com?user=Orlando0309&theme=dracula&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+### 🔥 Streak Stats *(weekdays only commitment mindset)*
+
+> 💡 _I stay consistent with my coding streaks from **Monday to Friday** — weekends are for recharge!_
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Orlando0309&theme=radical&hide_border=true&dates=FDFDFD&ring=FF6C37&currStreakLabel=FFCA28)](https://git.io/streak-stats)
 
 ## 🌐 Connect with Me
 
@@ -54,4 +57,6 @@ I'm a passionate **Backend Developer** with expertise in building scalable web a
 
 I’m currently exploring **Figma and Webflow** to create visually stunning websites.
 
-Feel free to reach out if you want to collaborate on an exciting project or just chat about tech!
+---
+
+👋 **Feel free to reach out if you’d like to collaborate on an exciting project or simply chat about tech!**
