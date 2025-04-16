@@ -53,6 +53,14 @@ I'm a passionate **Backend Developer** with expertise in building scalable web a
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Orlando0309)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://andrianayorllando.wixstudio.io/portfolio)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ## ✨ Fun Fact
 
 I’m currently exploring **Figma and Webflow** to create visually stunning websites.
