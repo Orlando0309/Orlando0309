@@ -116,10 +116,6 @@ Now I put **LLMs to work**: designing prompts, chaining agents, wiring tools, an
   <img src="https://streak-stats.demolab.com?user=Orlando0309&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=2cb67d&currStreakLabel=7f5af0&mode=weekly" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Orlando0309&bg_color=0d1117&color=c9d1d9&line=7f5af0&point=2cb67d&area=true&area_color=7f5af0&hide_border=true" width="100%" />
-</p>
-
 > 💡 *Shipping Monday → Friday. Weekends are for recharging (and reading papers).*
 
 ---
@@ -133,15 +129,6 @@ Now I put **LLMs to work**: designing prompts, chaining agents, wiring tools, an
 - ⚡ Fun fact: I self-host my own projects on my own VPS 🐧
 
 ---
-
-<!-- ═══════════════════ SNAKE / PACMAN ═══════════════════ -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:302b63,100:0f0c29&height=120&section=footer&text=Let's%20build%20something%20intelligent%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
