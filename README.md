@@ -1,70 +1,148 @@
-# Hi, I'm Orlando Andrianay! 👋
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7f5af0&height=220&section=header&text=Orlando%20Andrianay&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Agents%20%E2%80%A2%20Voice%20AI%20%E2%80%A2%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
 
-I'm a passionate **Backend Developer** with expertise in building scalable web applications using modern technologies. My journey in web development has been driven by a love for learning and solving complex problems. I thrive on creating efficient, high-performing solutions that deliver value to users.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=650&lines=I+build+AI+agents+that+actually+ship+%F0%9F%9A%80;Voice+agents+that+answer+the+phone+%F0%9F%93%9E;LLM+pipelines+that+screen+resumes+%F0%9F%93%84;Backend+roots+%E2%86%92+AI+brain+%F0%9F%A7%A0;Based+in+Madagascar+%F0%9F%87%B2%F0%9F%87%AC+building+for+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Orlando0309&color=blue)
-
-## 🚀 Tech Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-### **Frameworks & Libraries**
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando0309&layout=compact&theme=radical)
-
-### 🔥 Streak Stats *(weekdays only commitment mindset)*
-
-> 💡 _I stay consistent with my coding streaks from **Monday to Friday** — weekends are for recharge!_
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Orlando0309&theme=radical&hide_border=true&dates=FDFDFD&ring=FF6C37&currStreakLabel=FFCA28)](https://git.io/streak-stats)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miarintsoa-orlando-andrianay-621553252/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Orlando0309)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://andrianayorllando.wixstudio.io/portfolio)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-## ✨ Fun Fact
-
-I’m currently exploring **Figma and Webflow** to create visually stunning websites.
+<p align="center">
+  <a href="https://www.linkedin.com/in/miarintsoa-orlando-andrianay-621553252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tamis.equipe-ia.com"><img src="https://img.shields.io/badge/Tamis-7F5AF0?style=for-the-badge&logo=sparkles&logoColor=white" /></a>
+  <a href="https://andrianayorllando.wixstudio.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://gitlab.com/Orlando0309"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Orlando0309&style=for-the-badge&color=7f5af0&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-👋 **Feel free to reach out if you’d like to collaborate on an exciting project or simply chat about tech!**
+## 🧠 `whoami`
+
+```python
+class Orlando:
+    role       = "AI Engineer"
+    based_in   = "Antananarivo, Madagascar 🇲🇬"
+    background = "Backend Developer → AI Engineer"
+    education  = "IT University"
+
+    building = [
+        "📞 AI voice agents that handle real phone calls",
+        "📄 LLM-powered resume screening pipelines (n8n + Claude)",
+        "🤖 Multi-step agent workflows & automations",
+        "⚙️  Production APIs that put models to work",
+    ]
+
+    philosophy = "A model is a demo. A pipeline is a product."
+```
+
+I started out building scalable backends — APIs, databases, the boring-but-critical stuff.
+Now I put **LLMs to work**: designing prompts, chaining agents, wiring tools, and shipping AI that runs on real traffic, not just in notebooks.
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📞 Voice AI Agents</h3>
+      AI agents that pick up the phone, understand the caller, book, qualify and route — in natural French.<br/><br/>
+      <code>STT</code> <code>LLM</code> <code>TTS</code> <code>Telephony</code> <code>Function calling</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧲 <a href="https://tamis.equipe-ia.com">Tamis</a></h3>
+      AI-powered candidate screening: multi-stage LLM pipelines that read, score and shortlist resumes automatically.<br/><br/>
+      <code>n8n</code> <code>Claude</code> <code>Prompt engineering</code> <code>Structured outputs</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ Practice Management AI</h3>
+      Smart workflow tooling for law offices — client intake, assistant dispatch, attendance & appointments.<br/><br/>
+      <code>Backend</code> <code>Automation</code> <code>Scheduling</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/Orlando0309/resume-maker-api">Resume Maker</a></h3>
+      An API + React app that uses an LLM to rewrite and enhance resumes.<br/><br/>
+      <code>Python</code> <code>Gemini</code> <code>React</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🤖 AI / LLM
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+</p>
+
+### 💻 Languages & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,go,fastapi,django,flask,nodejs,express,dotnet&perline=12" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,html,css,figma&perline=12" />
+</p>
+
+### ☁️ Data, Infra & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,postgres,mysql,mongodb,redis,firebase,git,github,gitlab,vscode,postman&perline=13" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Orlando0309&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=2cb67d&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando0309&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Orlando0309&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=2cb67d&currStreakLabel=7f5af0&mode=weekly" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Orlando0309&bg_color=0d1117&color=c9d1d9&line=7f5af0&point=2cb67d&area=true&area_color=7f5af0&hide_border=true" width="100%" />
+</p>
+
+> 💡 *Shipping Monday → Friday. Weekends are for recharging (and reading papers).*
+
+---
+
+## 🧪 Currently
+
+- 🔭 Building **production voice agents** for real businesses
+- 🌱 Going deeper into **agent architectures, RAG & evals**
+- 🤝 Open to **collaborations** on AI agents, automation & LLM products
+- 💬 Ask me about **prompt engineering, n8n, voice AI, backend design**
+- ⚡ Fun fact: I self-host my own projects on my own VPS 🐧
+
+---
+
+<!-- ═══════════════════ SNAKE / PACMAN ═══════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Orlando0309/Orlando0309/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:302b63,100:0f0c29&height=120&section=footer&text=Let's%20build%20something%20intelligent%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
+</p>
